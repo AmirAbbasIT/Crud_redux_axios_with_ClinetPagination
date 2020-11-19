@@ -1,0 +1,175 @@
+{
+  "users": [
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "username": "Kamren4",
+      "email": "Lucio_Hettinger@annie.ca",
+      "address": "acsad",
+      "phone": "(254)954-1289",
+      "website": "demarco.info",
+      "company": {
+        "name": "Keebler LLC",
+        "catchPhrase": "User-centric fault-tolerant solution",
+        "bs": "revolutionize end-to-end systems"
+      },
+      "phonenumber": "+923404112872"
+    },
+    {
+      "id": 6,
+      "name": "Mrs. Dennis Schulist2",
+      "username": "Leopoldo_Corkery",
+      "email": "Karley_Dach@jasper.info",
+      "address": {
+        "street": "Norberto Crossing",
+        "suite": "Apt. 950",
+        "city": "South Christy",
+        "zipcode": "23505-1337",
+        "geo": {
+          "lat": "-71.4197",
+          "lng": "71.7478"
+        }
+      },
+      "phone": "1-477-935-8478 x6430",
+      "website": "ola.org",
+      "company": {
+        "name": "Considine-Lockman",
+        "catchPhrase": "Synchronised bottom-line interface",
+        "bs": "e-enable innovative applications"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Nicholas Runolfsdottir V",
+      "username": "Maxime_Nienow2",
+      "email": "Sherwood@rosamond.me",
+      "address": {
+        "street": "Ellsworth Summit",
+        "suite": "Suite 729",
+        "city": "Aliyaview",
+        "zipcode": "45169",
+        "geo": {
+          "lat": "-14.3990",
+          "lng": "-120.7677"
+        }
+      },
+      "phone": "586.493.6943 x140",
+      "website": "jacynthe.com",
+      "company": {
+        "name": "Abernathy Group",
+        "catchPhrase": "Implemented secondary concept",
+        "bs": "e-enable extensible e-tailers"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Clementina DuBuque",
+      "username": "Moriah.Stanton",
+      "email": "Rey.Padberg@karina.biz",
+      "address": "Kharian",
+      "phone": "024-648-3804",
+      "website": "ambrose.net",
+      "company": {
+        "name": "Hoeger LLC",
+        "catchPhrase": "Centralized empowering task-force",
+        "bs": "target end-to-end models"
+      }
+    },
+    {
+      "name": "Amir Abbas2",
+      "username": "AmirAbbasSE",
+      "email": "amirsaeed624@gmail.com",
+      "phonenumber": "+923404112872",
+      "address": "Gujrat,Kharian",
+      "id": 11
+    },
+    {
+      "name": "Ali Hamza",
+      "username": "AliHamzaSE",
+      "email": "AliHamza@mail.com",
+      "phonenumber": "03404112872",
+      "address": "Gujrat Kharian",
+      "id": 12
+    },
+    {
+      "name": "James Bond",
+      "username": "James007",
+      "email": "007@James.com",
+      "phonenumber": "00996655446",
+      "address": "Unknown Address",
+      "id": 13
+    },
+    {
+      "name": "Amir Abbas2",
+      "username": "AmirAbbasSE",
+      "email": "amirsaeed624@gmail.com",
+      "phonenumber": "+923404112872",
+      "address": "Gujrat,Kharian",
+      "id": 11
+    },
+    {
+      "name": "Ali Hamza",
+      "username": "AliHamzaSE",
+      "email": "AliHamza@mail.com",
+      "phonenumber": "03404112872",
+      "address": "Gujrat Kharian",
+      "id": 12
+    },
+    {
+      "name": "James Bond",
+      "username": "James007",
+      "email": "007@James.com",
+      "phonenumber": "00996655446",
+      "address": "Unknown Address",
+      "id": 13
+    },
+    {
+      "name": "Amir Abbas2",
+      "username": "AmirAbbasSE",
+      "email": "amirsaeed624@gmail.com",
+      "phonenumber": "+923404112872",
+      "address": "Gujrat,Kharian",
+      "id": 11
+    },
+    {
+      "name": "Ali Hamza",
+      "username": "AliHamzaSE",
+      "email": "AliHamza@mail.com",
+      "phonenumber": "03404112872",
+      "address": "Gujrat Kharian",
+      "id": 12
+    },
+    {
+      "name": "James Bond",
+      "username": "James007",
+      "email": "007@James.com",
+      "phonenumber": "00996655446",
+      "address": "Unknown Address",
+      "id": 13
+    },
+    {
+      "name": "Amir Abbas2",
+      "username": "AmirAbbasSE",
+      "email": "amirsaeed624@gmail.com",
+      "phonenumber": "+923404112872",
+      "address": "Gujrat,Kharian",
+      "id": 11
+    },
+    {
+      "name": "Ali Hamza",
+      "username": "AliHamzaSE",
+      "email": "AliHamza@mail.com",
+      "phonenumber": "03404112872",
+      "address": "Gujrat Kharian",
+      "id": 12
+    },
+    {
+      "name": "James Bond",
+      "username": "James007",
+      "email": "007@James.com",
+      "phonenumber": "00996655446",
+      "address": "Unknown Address",
+      "id": 13
+    }
+  ]
+}
